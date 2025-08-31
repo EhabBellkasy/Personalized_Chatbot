@@ -1,0 +1,34 @@
+
+# Ignore virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Ignore log and temp files
+*.log
+*.tmp
+*.swp
+___*
+
+# Ignore data files
+*.xlsx
+*.csv
+*.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
